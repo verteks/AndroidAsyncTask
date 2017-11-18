@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\vshir\\AndroidStudioProjects\\Lab5-AsyncTaskLab\\app\\build\\intermediates\\res\\merged\\debug\\raw\\rblack.txt",
+        "source": "C:\\Users\\vshir\\AndroidStudioProjects\\Lab5-AsyncTaskLab\\app\\src\\main\\res\\raw\\rblack.txt"
+    },
+    {
+        "merged": "C:\\Users\\vshir\\AndroidStudioProjects\\Lab5-AsyncTaskLab\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lgaga.txt",
+        "source": "C:\\Users\\vshir\\AndroidStudioProjects\\Lab5-AsyncTaskLab\\app\\src\\main\\res\\raw\\lgaga.txt"
+    },
+    {
+        "merged": "C:\\Users\\vshir\\AndroidStudioProjects\\Lab5-AsyncTaskLab\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tswift.txt",
+        "source": "C:\\Users\\vshir\\AndroidStudioProjects\\Lab5-AsyncTaskLab\\app\\src\\main\\res\\raw\\tswift.txt"
+    }
+]
